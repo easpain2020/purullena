@@ -13,21 +13,21 @@
         "descripcion": "Descripcion Actividad DOS",
         "hora": "12:00 horas",
 	    "lugar": "Lugar Acvitidad DOS",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/easpain2020/purullena/main/castillobob.jpg"
     },
     {
         "titulo": "ACTIVIDAD TRES",
         "descripcion": "Descripcion Actividad TRES",
         "hora": "12:00 horas",
 	    "lugar": "Lugar Acvitidad TRES",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/easpain2020/purullena/main/castillobob.jpg"
     },
     {
         "titulo": "ACTIVIDAD CUATRO",
         "descripcion": "Descripcion Actividad CUATRO",
         "hora": "12:00 horas",
 	    "lugar": "Lugar Acvitidad CUATRO",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/easpain2020/purullena/main/castillobob.jpg"
     }
 ]    
 }
